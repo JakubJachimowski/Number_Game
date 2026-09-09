@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Ten's Ledger",
+    "slug": "tens-ledger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#eef2e4",
+    "android": {
+      "package": "com.kuba.tensledger",
+      "backgroundColor": "#eef2e4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kuba.tensledger"
+    }
+  }
+}
