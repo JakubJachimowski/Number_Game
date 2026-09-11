@@ -13,6 +13,11 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.kuba.tensledger"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74857c14-4939-4bdb-807b-3fca96d1ed4c"
+      }
     }
   }
 }
